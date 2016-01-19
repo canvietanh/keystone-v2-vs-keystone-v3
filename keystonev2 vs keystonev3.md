@@ -18,7 +18,7 @@ Miền đại diện cho tập hợp những người dùng, nhóm hay dự án.
 ##Keystonev2
 Đối với API keystone v2, mọi hoat động đều trên 1 miền mặc định. Ví dụ như nếu bạn tạo 1 người dùng, nhóm hay dự án thì nó đều được tạo trên 1 miền mặc định.
  
- Ví dụ dư trên keystonev2, mỗi người dùng ở trên nhiều dự án khác nhau với quyền khác nhau. Ví dụ người dùng A có quyền admin ở project A nhưng lại có quyền member ở Project B nhưng với Keystonev3, các project được phân vào các domain khác nhau
+Ví dụ dư trên keystonev2, mỗi người dùng ở trên nhiều dự án khác nhau với quyền khác nhau. Ví dụ người dùng A có quyền admin ở project A nhưng lại có quyền member ở Project B nhưng với Keystonev3, các project được phân vào các domain khác nhau
  
 
 ##Keyston v3 sử dụng câu lệnh là OpenStack còn đối với keystonev2 sử dụng Keystone 
